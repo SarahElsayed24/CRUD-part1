@@ -1,0 +1,28 @@
+@media screen and (max-width:600px){
+.meal{
+width: 100%;
+    }
+}
+@media screen and (min-width:601px) {
+    .meal{
+        width: 50%;
+    }
+    
+}
+@media screen and (min-width:769px) {
+    .meal{
+        width: 33.33%;
+    }
+    
+}
+@media screen and (min-width:993px) {
+    .meal{
+        width: 25%;
+    }
+    
+}
+@media screen  and (min-width:1200px) {
+    .meal{
+        width: 20%;
+    }
+}
